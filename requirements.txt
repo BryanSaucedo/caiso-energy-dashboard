@@ -4,3 +4,4 @@ gridstatus
 scikit-learn
 requests
 pytz
+tzdata
